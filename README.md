@@ -7,8 +7,13 @@ My LeetCode solutions with automatic GitHub sync using LeetHub. Organized by pro
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Ayuxhexe/dsa_solutions/tree/master/0001-two-sum) |
+| [0027-remove-element](https://github.com/Ayuxhexe/dsa_solutions/tree/master/0027-remove-element) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Ayuxhexe/dsa_solutions/tree/master/0001-two-sum) |
+## Two Pointers
+|  |
+| ------- |
+| [0027-remove-element](https://github.com/Ayuxhexe/dsa_solutions/tree/master/0027-remove-element) |
 <!---LeetCode Topics End-->
