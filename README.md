@@ -16,8 +16,13 @@ My LeetCode solutions with automatic GitHub sync using LeetHub. Organized by pro
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/Ayuxhexe/dsa_solutions/tree/master/0027-remove-element) |
+| [0125-valid-palindrome](https://github.com/Ayuxhexe/dsa_solutions/tree/master/0125-valid-palindrome) |
 ## Math
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Ayuxhexe/dsa_solutions/tree/master/0009-palindrome-number) |
+## String
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/Ayuxhexe/dsa_solutions/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
