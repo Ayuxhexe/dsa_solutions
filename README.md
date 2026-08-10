@@ -9,6 +9,7 @@ My LeetCode solutions with automatic GitHub sync using LeetHub. Organized by pro
 | [0001-two-sum](https://github.com/Ayuxhexe/dsa_solutions/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/Ayuxhexe/dsa_solutions/tree/master/0027-remove-element) |
 | [0066-plus-one](https://github.com/Ayuxhexe/dsa_solutions/tree/master/0066-plus-one) |
+| [0088-merge-sorted-array](https://github.com/Ayuxhexe/dsa_solutions/tree/master/0088-merge-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -17,6 +18,7 @@ My LeetCode solutions with automatic GitHub sync using LeetHub. Organized by pro
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/Ayuxhexe/dsa_solutions/tree/master/0027-remove-element) |
+| [0088-merge-sorted-array](https://github.com/Ayuxhexe/dsa_solutions/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Ayuxhexe/dsa_solutions/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Ayuxhexe/dsa_solutions/tree/master/0344-reverse-string) |
 ## Math
@@ -29,4 +31,8 @@ My LeetCode solutions with automatic GitHub sync using LeetHub. Organized by pro
 | ------- |
 | [0125-valid-palindrome](https://github.com/Ayuxhexe/dsa_solutions/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Ayuxhexe/dsa_solutions/tree/master/0344-reverse-string) |
+## Sorting
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/Ayuxhexe/dsa_solutions/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
