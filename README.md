@@ -11,6 +11,7 @@ My LeetCode solutions with automatic GitHub sync using LeetHub. Organized by pro
 | [0053-maximum-subarray](https://github.com/Ayuxhexe/dsa_solutions/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Ayuxhexe/dsa_solutions/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Ayuxhexe/dsa_solutions/tree/master/0088-merge-sorted-array) |
+| [0485-max-consecutive-ones](https://github.com/Ayuxhexe/dsa_solutions/tree/master/0485-max-consecutive-ones) |
 ## Hash Table
 |  |
 | ------- |
